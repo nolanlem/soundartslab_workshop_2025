@@ -19,6 +19,7 @@ Plug in USB Cable into Arduino slot
 
 # Raspberry Pi setup 
 
-![Alt text](./images/Rpi4_pinout.png))
+
+<img src="images/Rpi4_pinout.jpg" alt="Description" width="400"/>
 
 
