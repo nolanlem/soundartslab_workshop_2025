@@ -20,7 +20,8 @@ Plug in USB Cable into Arduino slot
 # Raspberry Pi setup 
 
 
-<img src="./images/Rpi4_pinout.png" alt="Description" width="400"/>
+<img src="./images/Rpi4_pinout.png" alt="Description" width="400"/></img>
+
 1. connect GPIO 2 (SDA) to Adafruit shield pin labeled "SDA" 
 2. connect GPIO 3 (SCL) to Adafruit shield pin labeled "SCL" 
 3. connect GPIO 6 to Adafruit shield pin labeled 'GND' 
