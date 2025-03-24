@@ -7,6 +7,7 @@ Adafruit_StepperMotor *stepper = AFMS.getStepper(200, 1); // m1/m2 or m3/4
 
 
 // wiring: 
+
 // on arduino      on stepper motor 
 // M1 (top)    --> Blue 
 // M1 (bottom) --> Red
