@@ -1,0 +1,8 @@
+pygame>=2.0.0
+psutil>=5.8.0
+paramiko>=2.7.2
+adafruit-circuitpython-motorkit>=1.6.3
+python-osc>=1.8.0
+numpy>=1.19.5
+nest-asyncio>=1.5.1
+python-vlc>=3.0.12 
