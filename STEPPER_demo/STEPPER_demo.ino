@@ -3,6 +3,9 @@
 Adafruit_MotorShield AFMS = Adafruit_MotorShield();
 Adafruit_StepperMotor *stepper = AFMS.getStepper(200, 1); // m1/m2 or m3/4
 
+// move Voltage Knob on Variable Power supply to 4 V and set current knob halfway
+
+
 // wiring: 
 // on arduino      on stepper motor 
 // M1 (top)    --> Blue 
